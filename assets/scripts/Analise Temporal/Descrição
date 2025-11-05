@@ -1,0 +1,9 @@
+## Projeto de Análise Temporal de Vendas
+
+[Cole aqui a descrição do projeto de Análise Temporal de Vendas do arquivo que enviei]
+
+**Tecnologias utilizadas:** Python, pandas, statsmodels, SARIMAX, matplotlib, seaborn
+
+**Arquivos do projeto:**
+- [Notebook de Análise](./Modelo_temporal_vendas_analise.ipynb)
+- [Visualizações](./images/dashboard_vendas.png)
