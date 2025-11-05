@@ -1,4 +1,5 @@
-Projeto de Previsão de Nível de Estoque
+## Projeto de Previsão de Nível de Estoque
+
 Projeto de Previsão de Nível de Estoque
 
 Este projeto aborda um desafio crucial no varejo: a otimização de níveis de estoque através de técnicas avançadas de aprendizado de máquina. Utilizando um conjunto de dados do Kaggle sobre previsão de estoque em lojas de varejo, desenvolvi um pipeline completo de ciência de dados que abrange desde a extração e tratamento dos dados até a implementação de modelos preditivos sofisticados.
@@ -9,10 +10,9 @@ A avaliação do modelo foi realizada através de métricas rigorosas como erro 
 
 Este projeto evidencia minha capacidade de aplicar técnicas avançadas de ciência de dados para resolver problemas reais de negócios, combinando conhecimentos em programação Python, estatística, aprendizado de máquina e análise de dados.
 
-Tecnologias utilizadas: Python, scikit-learn, redes neurais, pandas, matplotlib
+**Tecnologias utilizadas:** Python, scikit-learn, redes neurais, pandas, matplotlib
 
-Arquivos do projeto:
-
-Notebook de Análise
-Resultados
-Visualizações
+**Arquivos do projeto:**
+- [Notebook de Análise](./Nivel_estoque_prev.ipynb)
+- [Resultados](./Df_resultado.xlsx)
+- [Visualizações](./images/dashboard_estoque.png)
