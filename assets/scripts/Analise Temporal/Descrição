@@ -1,6 +1,14 @@
 ## Projeto de Análise Temporal de Vendas
 
-[Cole aqui a descrição do projeto de Análise Temporal de Vendas do arquivo que enviei]
+Projeto de Análise Temporal de Vendas
+
+Neste projeto, desenvolvi um modelo preditivo para séries temporais com o objetivo de prever vendas futuras, especificamente para o primeiro semestre de 2025. O diferencial deste trabalho está na abordagem híbrida que implementei, combinando análise endógena (baseada apenas no histórico da série) com variáveis exógenas para criar um modelo mais robusto e menos determinístico.
+
+O coração do projeto é a implementação do modelo SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous variables), que permite incorporar tanto a sazonalidade inerente às vendas quanto fatores externos que influenciam o comportamento do mercado. Para garantir a qualidade das previsões, realizei um tratamento cuidadoso para tornar a série temporal estacionária através de diferenciação e análise de média móvel.
+
+Um aspecto inovador foi a integração com banco de dados, extraindo informações de vendas mensais e registros de transações para alimentar o modelo. Isso demonstra minha capacidade de trabalhar com fontes de dados estruturadas e criar pipelines de dados completos para análises avançadas.
+
+Os resultados do modelo foram validados através de métricas de desempenho e análise visual das previsões contra dados reais, confirmando a eficácia da abordagem para capturar tendências e padrões sazonais nas vendas. Este projeto exemplifica minha habilidade em aplicar técnicas estatísticas avançadas e modelagem preditiva para gerar insights acionáveis em contextos de negócios.
 
 **Tecnologias utilizadas:** Python, pandas, statsmodels, SARIMAX, matplotlib, seaborn
 
